@@ -11,8 +11,9 @@ After each project a list of keywords is included indicating libraries, framewor
 * Incorporated Uncertainty Estimation in the Transformer model by combining state-of-the-art methods to filter out ambiguous or Out-of-Distribution (OoD) data points.
 * Built a pipeline for clustering and sentiment analysis of customer comments, providing visualizations and various insights on the text data relevant to the package.
 * Keywords : Pytorch, PyLightning, Gaussian Mixture Models, Transformers Uncertainty Estimation, Regex, BERTopic.
-
-
+<br>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
 
 # Project 2 : Website Recommender System & Lead Conversion (without individual user data)
 *  Constructed a graph network with URLs as nodes and user navigation paths as edges to understand website user behavior.
@@ -20,7 +21,9 @@ After each project a list of keywords is included indicating libraries, framewor
 *  Employed BERT-based semantic similarity for automated article recommendations, enriched with Node2Vec embeddings. Bert Embeddings were concatenated with Node2Vec embeddings for enhanced reccomendations.
 *  Applied Beam Search Algorithm in conjunction with Markov Chain transition probabilities to nudge users toward lead conversion/account registration.
 *  Keywords : Networkx, Pytorch Geometric, Node2Vec,Semantic Similarity.
-
+<br>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
 # Project 3 : Conversational Chatbot Analytics for Customer Support
 * Delivered to business a pipeline which does the following:
   * Text Clustering
@@ -29,28 +32,36 @@ After each project a list of keywords is included indicating libraries, framewor
   * Keyword Extraction
   * Data Visualizations, Clustering Visualizations, Topic Rivers/Stream Graphs etc.
 * Keywords : Ascect Semantic Similarity, KeyBert, UMAP, HDBSCAN, Yake.
-
+<br>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
 
 # Project 4 : Volume Prediction on Warehouses
 * Utilizing Dynamic Graph Neural Networks(SpatioTemporal - Time variying features, static graph) to try to model after shipment volume movement worldwide
 * Inspired from TGN(Temporal Graph Network) paper by the Twitter team which modeled after twitter users.
 * Still in Progress
 * Keywords : Spacio-Temporal Graph Neural Networks.
-
+<br>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
 
 # Project 5 : Speech to Text from Calls
 * Built a pipeline to transcribe calls made to customer service into text.
 * Applied techniques from Project 3 such as summarization, keyword analysis, clustering, and visualization to the transcribed text.
 * Future work involves integrating text-generating Language Models like LLaMMa-2.
 * Keywords : Whisper, BERTopic.
-
+<br>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
 
 # Project 6 : Card Classification + XAI
 * Developed an image classification model using a Convolutional Neural Network trained on Kaggle data.
 * Created a dataset on my own with photos taken of cards on various angles, distortions, objects and drawings around etc.
 * Fine-tuned the model using this dataset and applied LIME and SHAP for model interpretability and error analysis.
 * Keywords : Tensorflow, LIME, SHAP,
-
+<br>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
 # Project 7 :  GDPR Fine Amount Prediction
 * Conducted data analysis on GDPR fines imposed on Universities and Public Institutions, utilizing data from the [GDPR Enforcement Tracker website](https://www.enforcementtracker.com/), which includes summaries of issued fines, country, institution, date of decision, and fine amount.
 * Employed text mining techniques on the summary of court decisions to extract features that could serve as predictors in the fine amount prediction models.
@@ -60,14 +71,18 @@ After each project a list of keywords is included indicating libraries, framewor
 * Feature Selection done  using PCA to select features which explain most variance + Relevance
 * Keywords : PCA, Scikit Learn, Regex.
 
-
+<br>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
 # Project 8 : Binge Eating Disorder Prediction
 * Conducted a predictive analysis on Binge Eating Episodes among 120 participants using a variety of statistical models including mixed models and MERF(Mixed Effects Random Forests), with a focus on model explainability. 
 * Achieved the highest AUC score of 0.7529 with a mixed model based on emotions and time variables.
 * Identified key predictors influencing BEEs as emotions "calm," "stress," "boredom," "guilt," time of day and year, and participants’ willingness to restrict eating behavior. 
 * Data taken from a mobile application (mEMA) app which gathered real-time emotional and behavioral data from participants, aiming for real-world application use of the data.
 * Keywords : MERF, Mixed Effects models.
-
+<br>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
 
 # Project 9 : Homer's Odyssey Text Mining
 * Analyzed the classical Ancient Greek book using NLP algorithms
