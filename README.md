@@ -1,6 +1,4 @@
 # Athanasios Rakitzis Portfolio
-AI - Data Science Portfolio
-<br>
 After each project a list of keywords is included indicating libraries, frameworks and Theoretical concepts used.
 <br>
 
