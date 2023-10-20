@@ -1,8 +1,8 @@
 # Athanasios Rakitzis Portfolio
 AI - Data Science Portfolio
----
-After each project I include a few keywords like libraries/frameworks used or Theoretical concepts.
----
+\\
+After each project a list of keywords is included indicating libraries, frameworks and Theoretical concepts used.
+\\
 
 
 # Project 1 : Customer Call Prediction
