@@ -15,7 +15,8 @@ After each project a list of keywords is included indicating libraries, framewor
 *  Leveraged Graph Neural Networks and Node2Vec for node embeddings. Utilized  Link Prediction methodology from GNN to create probable yet non-existent connections between URL.
 *  Employed BERT-based semantic similarity for automated article recommendations, enriched with Node2Vec embeddings. Bert Embeddings were concatenated with Node2Vec embeddings for enhanced reccomendations.
 *  Applied Beam Search Algorithm in conjunction with Markov Chain transition probabilities to nudge users toward lead conversion/account registration.
-*  Keywords : Networkx, Pytorch Geometric, Node2Vec,Semantic Similarity.
+*  Finally experimented with the idea of an LLM agent (like auto-gpt) which was instructed to act like a human user looking for a goal/page in order to generate artificial data.
+*  Keywords : Networkx, Pytorch Geometric, Node2Vec,Semantic Similarity, Langchain.
 
 
 # Project 3 : Conversational Chatbot Analytics for Customer Support
